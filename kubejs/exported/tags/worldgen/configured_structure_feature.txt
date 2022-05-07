@@ -1,0 +1,62 @@
+To refresh this file, delete it and run /reload command again! Last updated: May 7, 2022, 10:46:36 AM
+
+#minecraft:shipwreck
+- minecraft:shipwreck
+- minecraft:shipwreck_beached
+
+#minecraft:on_ocean_explorer_maps
+- minecraft:monument
+
+#minecraft:ocean_ruin
+- minecraft:ocean_ruin_cold
+- minecraft:ocean_ruin_warm
+
+#betterstrongholds:stronghold
+- betterstrongholds:stronghold
+
+#minecraft:mineshaft
+- minecraft:mineshaft
+- minecraft:mineshaft_mesa
+- bettermineshafts:mineshaft_acacia
+- bettermineshafts:mineshaft_desert
+- bettermineshafts:mineshaft_ice
+- bettermineshafts:mineshaft_jungle
+- bettermineshafts:mineshaft_lush
+- bettermineshafts:mineshaft_mesa
+- bettermineshafts:mineshaft_mushroom
+- bettermineshafts:mineshaft_oak
+- bettermineshafts:mineshaft_red_desert
+- bettermineshafts:mineshaft_spruce
+- bettermineshafts:mineshaft_spruce_snowy
+- bettermineshafts:mineshaft_forest
+- bettermineshafts:mineshaft_dripstone
+
+#minecraft:on_woodland_explorer_maps
+- minecraft:mansion
+
+#minecraft:on_treasure_maps
+- minecraft:buried_treasure
+
+#minecraft:eye_of_ender_located
+- minecraft:stronghold
+- #betterstrongholds:stronghold
+
+#minecraft:ruined_portal
+- minecraft:ruined_portal_desert
+- minecraft:ruined_portal_jungle
+- minecraft:ruined_portal_mountain
+- minecraft:ruined_portal_nether
+- minecraft:ruined_portal_ocean
+- minecraft:ruined_portal
+- minecraft:ruined_portal_swamp
+
+#minecraft:village
+- minecraft:village_plains
+- minecraft:village_desert
+- minecraft:village_savanna
+- minecraft:village_snowy
+- minecraft:village_taiga
+
+#minecraft:dolphin_located
+- #minecraft:ocean_ruin
+- #minecraft:shipwreck

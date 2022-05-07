@@ -1,0 +1,120 @@
+[17:12:53] [INFO ] Hello, World! (You will see this line every time server resources reload)
+[17:12:53] [INFO ] Loaded script server_scripts:script.js in 0.008 s
+[17:12:53] [INFO ] Loaded 1/1 KubeJS server scripts in 0.013 s
+[17:12:53] [INFO ] Scripts loaded
+[17:12:53] [INFO ] Scanning recipes...
+[17:12:55] [INFO ] [items] Found 768 tags, added 17 objects, removed 0 objects
+[17:12:55] [INFO ] [items] Found 768 tags, added 17 objects, removed 0 objects
+[17:12:56] [WARN ] Failed to parse recipe 'yigd:death_scroll[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'yigd:death_scroll'
+[17:12:56] [WARN ] Failed to parse recipe yigd:death_scroll[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'yigd:death_scroll'
+[17:12:56] [WARN ] Failed to parse recipe 'advanced_reborn:crafting/nano_helmet_2[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'ag4tr:nv_goggles'
+[17:12:56] [WARN ] Failed to parse recipe advanced_reborn:crafting/nano_helmet_2[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'ag4tr:nv_goggles'
+[17:12:56] [INFO ] Found 6935 recipes and 0 failed recipes in 228.7 ms
+[17:12:56] [INFO ] ~ farmersdelight:egg_sandwich[minecraft:crafting_shapeless]: IN 'farmersdelight:fried_egg' -> '#fabric:cooked_eggs'
+[17:12:56] [INFO ] ~ farmersdelight:cutting/acacia_log[farmersdelight:cutting]: OUT 'farmersdelight:tree_bark' -> '2x farmersdelight:tree_bark'
+[17:12:56] [INFO ] ~ farmersdelight:cutting/birch_log[farmersdelight:cutting]: OUT 'farmersdelight:tree_bark' -> '2x farmersdelight:tree_bark'
+[17:12:56] [INFO ] ~ farmersdelight:cutting/crimson_stem[farmersdelight:cutting]: OUT 'farmersdelight:tree_bark' -> '2x farmersdelight:tree_bark'
+[17:12:56] [INFO ] ~ farmersdelight:cutting/oak_wood[farmersdelight:cutting]: OUT 'farmersdelight:tree_bark' -> '2x farmersdelight:tree_bark'
+[17:12:56] [INFO ] server_scripts:script.js:34: ~ farmersdelight:cutting/birch_wood[farmersdelight:cutting]: OUT 'farmersdelight:tree_bark' -> '2x farmersdelight:tree_bark'
+[17:12:56] [INFO ] ~ farmersdelight:cutting/jungle_log[farmersdelight:cutting]: OUT 'farmersdelight:tree_bark' -> '2x farmersdelight:tree_bark'
+[17:12:56] [INFO ] ~ farmersdelight:cutting/spruce_log[farmersdelight:cutting]: OUT 'farmersdelight:tree_bark' -> '2x farmersdelight:tree_bark'
+[17:12:56] [INFO ] ~ farmersdelight:cutting/warped_hyphae[farmersdelight:cutting]: OUT 'farmersdelight:tree_bark' -> '2x farmersdelight:tree_bark'
+[17:12:56] [INFO ] ~ farmersdelight:cutting/acacia_wood[farmersdelight:cutting]: OUT 'farmersdelight:tree_bark' -> '2x farmersdelight:tree_bark'
+[17:12:56] [INFO ] ~ farmersdelight:cutting/oak_log[farmersdelight:cutting]: OUT 'farmersdelight:tree_bark' -> '2x farmersdelight:tree_bark'
+[17:12:56] [INFO ] ~ farmersdelight:cutting/spruce_wood[farmersdelight:cutting]: OUT 'farmersdelight:tree_bark' -> '2x farmersdelight:tree_bark'
+[17:12:56] [INFO ] ~ farmersdelight:cutting/jungle_wood[farmersdelight:cutting]: OUT 'farmersdelight:tree_bark' -> '2x farmersdelight:tree_bark'
+[17:12:56] [INFO ] ~ farmersdelight:cutting/dark_oak_log[farmersdelight:cutting]: OUT 'farmersdelight:tree_bark' -> '2x farmersdelight:tree_bark'
+[17:12:56] [INFO ] ~ farmersdelight:cutting/crimson_hyphae[farmersdelight:cutting]: OUT 'farmersdelight:tree_bark' -> '2x farmersdelight:tree_bark'
+[17:12:56] [INFO ] ~ farmersdelight:cutting/warped_stem[farmersdelight:cutting]: OUT 'farmersdelight:tree_bark' -> '2x farmersdelight:tree_bark'
+[17:12:56] [INFO ] ~ farmersdelight:cutting/dark_oak_wood[farmersdelight:cutting]: OUT 'farmersdelight:tree_bark' -> '2x farmersdelight:tree_bark'
+[17:12:56] [INFO ] ~ techreborn:blasting/silver_ingot_from_c_raw_silver_ores[minecraft:blasting]: IN 'bewitchment:raw_silver' -> '#c:raw_silver_ores'
+[17:12:56] [INFO ] server_scripts:script.js:35: ~ techreborn:centrifuge/raw_silver[techreborn:centrifuge]: IN 'bewitchment:raw_silver' -> '#c:raw_silver_ores'
+[17:12:56] [INFO ] server_scripts:script.js:35: ~ bewitchment:silver_ingot_from_blasting_raw_silver[minecraft:blasting]: IN 'bewitchment:raw_silver' -> '#c:raw_silver_ores'
+[17:12:56] [INFO ] ~ bewitchment:raw_silver_block[minecraft:crafting_shaped]: IN 'bewitchment:raw_silver' -> '#c:raw_silver_ores'
+[17:12:56] [INFO ] ~ techreborn:smelting/silver_ingot_from_c_raw_silver_ores[minecraft:smelting]: IN 'bewitchment:raw_silver' -> '#c:raw_silver_ores'
+[17:12:56] [INFO ] ~ bewitchment:silver_ingot_from_smelting_raw_silver[minecraft:smelting]: IN 'bewitchment:raw_silver' -> '#c:raw_silver_ores'
+[17:12:56] [INFO ] ~ bewitchment:silver_ingot_from_blasting_deepslate_silver_ore[minecraft:blasting]: OUT 'bewitchment:silver_ingot' -> 'bewitchment:silver_ingot'
+[17:12:56] [INFO ] ~ bewitchment:silver_ingot_from_blasting_silver_ore[minecraft:blasting]: OUT 'bewitchment:silver_ingot' -> 'bewitchment:silver_ingot'
+[17:12:56] [INFO ] ~ bewitchment:silver_ingot_from_smelting_silver_ore[minecraft:smelting]: OUT 'bewitchment:silver_ingot' -> 'bewitchment:silver_ingot'
+[17:12:56] [INFO ] ~ bewitchment:silver_ingot_from_blasting_raw_silver[minecraft:blasting]: OUT 'bewitchment:silver_ingot' -> 'bewitchment:silver_ingot'
+[17:12:56] [INFO ] ~ bewitchment:silver_ingot_from_nuggets[minecraft:crafting_shaped]: OUT 'bewitchment:silver_ingot' -> 'bewitchment:silver_ingot'
+[17:12:56] [INFO ] ~ bewitchment:silver_ingot_from_smelting_deepslate_silver_ore[minecraft:smelting]: OUT 'bewitchment:silver_ingot' -> 'bewitchment:silver_ingot'
+[17:12:56] [INFO ] ~ bewitchment:silver_ingot_from_silver_block[minecraft:crafting_shapeless]: OUT 'bewitchment:silver_ingot' -> 'bewitchment:silver_ingot'
+[17:12:56] [INFO ] ~ bewitchment:silver_ingot_from_smelting_raw_silver[minecraft:smelting]: OUT 'bewitchment:silver_ingot' -> 'bewitchment:silver_ingot'
+[17:12:56] [INFO ] ~ bewitchment:raw_silver[minecraft:crafting_shapeless]: OUT 'bewitchment:raw_silver' -> 'techreborn:raw_silver'
+[17:12:56] [INFO ] ~ bewitchment:curses/unlucky[bewitchment:curse_recipe]: IN 'bewitchment:silver_ingot' -> '#c:silver_ingots'
+[17:12:56] [INFO ] server_scripts:script.js:38: ~ bewitchment:prismarine_witch_altar[minecraft:crafting_shaped]: IN 'bewitchment:silver_ingot' -> '#c:silver_ingots'
+[17:12:56] [INFO ] ~ bewitchment:athame[minecraft:crafting_shaped]: IN 'bewitchment:silver_ingot' -> '#c:silver_ingots'
+[17:12:56] [INFO ] ~ bewitchment:nazar[minecraft:crafting_shaped]: IN 'bewitchment:silver_ingot' -> '#c:silver_ingots'
+[17:12:56] [INFO ] ~ bewitchment:obsidian_witch_altar[minecraft:crafting_shaped]: IN 'bewitchment:silver_ingot' -> '#c:silver_ingots'
+[17:12:56] [INFO ] ~ techreborn:compressor/silver_plate[techreborn:compressor]: IN 'bewitchment:silver_ingot' -> '#c:silver_ingots'
+[17:12:56] [INFO ] ~ bewitchment:crystal_ball[minecraft:crafting_shaped]: IN 'bewitchment:silver_ingot' -> '#c:silver_ingots'
+[17:12:56] [INFO ] server_scripts:script.js:38: ~ bewitchment:silver_block[minecraft:crafting_shaped]: IN 'bewitchment:silver_ingot' -> '#c:silver_ingots'
+[17:12:56] [INFO ] server_scripts:script.js:38: ~ techreborn:industrial_grinder/silver_ingot_with_mercury[techreborn:industrial_grinder]: IN 'bewitchment:silver_ingot' -> '#c:silver_ingots'
+[17:12:56] [INFO ] ~ bewitchment:purpur_witch_altar[minecraft:crafting_shaped]: IN 'bewitchment:silver_ingot' -> '#c:silver_ingots'
+[17:12:56] [INFO ] ~ bewitchment:golden_witch_altar[minecraft:crafting_shaped]: IN 'bewitchment:silver_ingot' -> '#c:silver_ingots'
+[17:12:56] [INFO ] ~ bewitchment:judgment_sigil[minecraft:crafting_shaped]: IN 'bewitchment:silver_ingot' -> '#c:silver_ingots'
+[17:12:56] [INFO ] server_scripts:script.js:38: ~ bewitchment:silver_candelabra[minecraft:crafting_shaped]: IN 'bewitchment:silver_ingot' -> '#c:silver_ingots'
+[17:12:56] [INFO ] server_scripts:script.js:38: ~ bewitchment:zephyr_harness[minecraft:crafting_shaped]: IN 'bewitchment:silver_ingot' -> '#c:silver_ingots'
+[17:12:56] [INFO ] ~ bewitchment:nether_brick_witch_altar[minecraft:crafting_shaped]: IN 'bewitchment:silver_ingot' -> '#c:silver_ingots'
+[17:12:56] [INFO ] ~ advanced_reborn:crafting/plates/silver_plate[minecraft:crafting_shapeless]: IN 'bewitchment:silver_ingot' -> '#c:silver_ingots'
+[17:12:56] [INFO ] ~ techreborn:alloy_smelter/electrum_ingot[techreborn:alloy_smelter]: IN 'bewitchment:silver_ingot' -> '#c:silver_ingots'
+[17:12:56] [INFO ] ~ bewitchment:end_stone_witch_altar[minecraft:crafting_shaped]: IN 'bewitchment:silver_ingot' -> '#c:silver_ingots'
+[17:12:56] [INFO ] ~ bewitchment:mossy_cobblestone_witch_altar[minecraft:crafting_shaped]: IN 'bewitchment:silver_ingot' -> '#c:silver_ingots'
+[17:12:56] [INFO ] ~ bewitchment:stone_witch_altar[minecraft:crafting_shaped]: IN 'bewitchment:silver_ingot' -> '#c:silver_ingots'
+[17:12:56] [INFO ] ~ bewitchment:witch_cauldron[minecraft:crafting_shaped]: IN 'bewitchment:silver_ingot' -> '#c:silver_ingots'
+[17:12:56] [INFO ] ~ bewitchment:druid_band[minecraft:crafting_shaped]: IN 'bewitchment:silver_ingot' -> '#c:silver_ingots'
+[17:12:56] [INFO ] ~ bewitchment:judgment_poppet[minecraft:crafting_shaped]: IN 'bewitchment:silver_ingot' -> '#c:silver_ingots'
+[17:12:56] [INFO ] ~ bewitchment:blackstone_witch_altar[minecraft:crafting_shaped]: IN 'bewitchment:silver_ingot' -> '#c:silver_ingots'
+[17:12:56] [INFO ] ~ bewitchment:brazier[minecraft:crafting_shaped]: IN 'bewitchment:silver_ingot' -> '#c:silver_ingots'
+[17:12:56] [INFO ] ~ bewitchment:curse_poppet[minecraft:crafting_shaped]: IN 'bewitchment:silver_ingot' -> '#c:silver_ingots'
+[17:12:56] [INFO ] ~ bewitchment:silver_nugget[minecraft:crafting_shapeless]: IN 'bewitchment:silver_ingot' -> '#c:silver_ingots'
+[17:12:56] [INFO ] ~ techreborn:centrifuge/raw_silver[techreborn:centrifuge]: IN 'bewitchment:raw_silver' -> '#c:raw_silver_ores'
+[17:12:56] [INFO ] ~ techreborn:smelting/silver_ingot_from_c_raw_silver_ores[minecraft:smelting]: IN 'bewitchment:raw_silver' -> '#c:raw_silver_ores'
+[17:12:56] [INFO ] ~ bewitchment:silver_ingot_from_smelting_raw_silver[minecraft:smelting]: IN 'bewitchment:raw_silver' -> '#c:raw_silver_ores'
+[17:12:56] [INFO ] ~ bewitchment:raw_silver_block[minecraft:crafting_shaped]: IN 'bewitchment:raw_silver' -> '#c:raw_silver_ores'
+[17:12:56] [INFO ] ~ bewitchment:silver_ingot_from_blasting_raw_silver[minecraft:blasting]: IN 'bewitchment:raw_silver' -> '#c:raw_silver_ores'
+[17:12:56] [INFO ] ~ techreborn:blasting/silver_ingot_from_c_raw_silver_ores[minecraft:blasting]: IN 'bewitchment:raw_silver' -> '#c:raw_silver_ores'
+[17:12:56] [INFO ] server_scripts:script.js:41: ~ bewitchment:prismarine_witch_altar[minecraft:crafting_shaped]: IN 'bewitchment:silver_ingot' -> '#c:silver_ingots'
+[17:12:56] [INFO ] ~ bewitchment:curse_poppet[minecraft:crafting_shaped]: IN 'bewitchment:silver_ingot' -> '#c:silver_ingots'
+[17:12:56] [INFO ] ~ bewitchment:athame[minecraft:crafting_shaped]: IN 'bewitchment:silver_ingot' -> '#c:silver_ingots'
+[17:12:56] [INFO ] ~ bewitchment:silver_nugget[minecraft:crafting_shapeless]: IN 'bewitchment:silver_ingot' -> '#c:silver_ingots'
+[17:12:56] [INFO ] ~ bewitchment:brazier[minecraft:crafting_shaped]: IN 'bewitchment:silver_ingot' -> '#c:silver_ingots'
+[17:12:56] [INFO ] ~ bewitchment:obsidian_witch_altar[minecraft:crafting_shaped]: IN 'bewitchment:silver_ingot' -> '#c:silver_ingots'
+[17:12:56] [INFO ] server_scripts:script.js:41: ~ bewitchment:silver_block[minecraft:crafting_shaped]: IN 'bewitchment:silver_ingot' -> '#c:silver_ingots'
+[17:12:56] [INFO ] ~ bewitchment:crystal_ball[minecraft:crafting_shaped]: IN 'bewitchment:silver_ingot' -> '#c:silver_ingots'
+[17:12:56] [INFO ] server_scripts:script.js:41: ~ techreborn:industrial_grinder/silver_ingot_with_mercury[techreborn:industrial_grinder]: IN 'bewitchment:silver_ingot' -> '#c:silver_ingots'
+[17:12:56] [INFO ] ~ bewitchment:stone_witch_altar[minecraft:crafting_shaped]: IN 'bewitchment:silver_ingot' -> '#c:silver_ingots'
+[17:12:56] [INFO ] ~ bewitchment:purpur_witch_altar[minecraft:crafting_shaped]: IN 'bewitchment:silver_ingot' -> '#c:silver_ingots'
+[17:12:56] [INFO ] ~ bewitchment:druid_band[minecraft:crafting_shaped]: IN 'bewitchment:silver_ingot' -> '#c:silver_ingots'
+[17:12:56] [INFO ] ~ bewitchment:judgment_poppet[minecraft:crafting_shaped]: IN 'bewitchment:silver_ingot' -> '#c:silver_ingots'
+[17:12:56] [INFO ] ~ techreborn:compressor/silver_plate[techreborn:compressor]: IN 'bewitchment:silver_ingot' -> '#c:silver_ingots'
+[17:12:56] [INFO ] ~ advanced_reborn:crafting/plates/silver_plate[minecraft:crafting_shapeless]: IN 'bewitchment:silver_ingot' -> '#c:silver_ingots'
+[17:12:56] [INFO ] ~ bewitchment:curses/unlucky[bewitchment:curse_recipe]: IN 'bewitchment:silver_ingot' -> '#c:silver_ingots'
+[17:12:56] [INFO ] server_scripts:script.js:41: ~ bewitchment:nether_brick_witch_altar[minecraft:crafting_shaped]: IN 'bewitchment:silver_ingot' -> '#c:silver_ingots'
+[17:12:56] [INFO ] ~ bewitchment:blackstone_witch_altar[minecraft:crafting_shaped]: IN 'bewitchment:silver_ingot' -> '#c:silver_ingots'
+[17:12:56] [INFO ] ~ bewitchment:golden_witch_altar[minecraft:crafting_shaped]: IN 'bewitchment:silver_ingot' -> '#c:silver_ingots'
+[17:12:56] [INFO ] ~ bewitchment:judgment_sigil[minecraft:crafting_shaped]: IN 'bewitchment:silver_ingot' -> '#c:silver_ingots'
+[17:12:56] [INFO ] ~ bewitchment:silver_candelabra[minecraft:crafting_shaped]: IN 'bewitchment:silver_ingot' -> '#c:silver_ingots'
+[17:12:56] [INFO ] ~ bewitchment:zephyr_harness[minecraft:crafting_shaped]: IN 'bewitchment:silver_ingot' -> '#c:silver_ingots'
+[17:12:56] [INFO ] ~ bewitchment:nazar[minecraft:crafting_shaped]: IN 'bewitchment:silver_ingot' -> '#c:silver_ingots'
+[17:12:56] [INFO ] ~ bewitchment:witch_cauldron[minecraft:crafting_shaped]: IN 'bewitchment:silver_ingot' -> '#c:silver_ingots'
+[17:12:56] [INFO ] ~ bewitchment:end_stone_witch_altar[minecraft:crafting_shaped]: IN 'bewitchment:silver_ingot' -> '#c:silver_ingots'
+[17:12:56] [INFO ] ~ bewitchment:mossy_cobblestone_witch_altar[minecraft:crafting_shaped]: IN 'bewitchment:silver_ingot' -> '#c:silver_ingots'
+[17:12:56] [INFO ] ~ techreborn:alloy_smelter/electrum_ingot[techreborn:alloy_smelter]: IN 'bewitchment:silver_ingot' -> '#c:silver_ingots'
+[17:12:56] [INFO ] server_scripts:script.js:43: + botania:mana_infusion: [] -> []
+[17:12:56] [INFO ] server_scripts:script.js:59: - farmersdelight:fried_egg_from_smoking[minecraft:smoking]: ['minecraft:egg'] -> ['farmersdelight:fried_egg']
+[17:12:56] [INFO ] server_scripts:script.js:59: - farmersdelight:fried_egg_from_campfire_cooking[minecraft:campfire_cooking]: ['minecraft:egg'] -> ['farmersdelight:fried_egg']
+[17:12:56] [INFO ] server_scripts:script.js:59: - farmersdelight:fried_egg[minecraft:smelting]: ['minecraft:egg'] -> ['farmersdelight:fried_egg']
+[17:12:56] [INFO ] server_scripts:script.js:60: - chisel:chisel[minecraft:crafting_shaped]: ['minecraft:iron_ingot', 'minecraft:stick'] -> ['chisel:chisel']
+[17:12:56] [INFO ] server_scripts:script.js:60: + kubejs:shaped: ['minecraft:stick', '#c:iron_ingots'] -> ['chisel:chisel']
+[17:12:56] [INFO ] server_scripts:script.js:74: + kubejs:shapeless: ['4x minecraft:wheat', Item.of('minecraft:potion', '{Potion:"minecraft:water"}')] -> ['2x farmersdelight:raw_pasta']
+[17:12:56] [INFO ] server_scripts:script.js:74: + minecraft:smelting: ['minecraft:cut_copper'] -> ['minecraft:copper_block']
+[17:12:56] [INFO ] server_scripts:script.js:78: + kubejs:shapeless: ['minecraft:amethyst_block', 'minecraft:flint'] -> ['4x minecraft:amethyst_shard']
+[17:12:56] [INFO ] server_scripts:script.js:79: + kubejs:shapeless: ['minecraft:quartz_block', 'minecraft:flint'] -> ['4x minecraft:quartz']
+[17:12:56] [INFO ] server_scripts:script.js:80: + kubejs:shapeless: ['spectrum:topaz_block', 'minecraft:flint'] -> ['4x spectrum:topaz_shard']
+[17:12:56] [INFO ] server_scripts:script.js:81: + kubejs:shapeless: ['spectrum:citrine_block', 'minecraft:flint'] -> ['4x spectrum:citrine_shard']
+[17:12:56] [INFO ] Posted recipe events in 171.7 ms
+[17:12:56] [INFO ] Modified & removed recipes in 82.00 ms
+[17:12:56] [INFO ] Added recipes in 4.658 ms
+[17:12:56] [INFO ] Added 8 recipes, removed 4 recipes, modified 92 recipes, with 0 failed recipes and 0 fall-backed recipes

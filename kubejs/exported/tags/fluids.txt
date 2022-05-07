@@ -1,0 +1,17 @@
+To refresh this file, delete it and run /reload command again! Last updated: May 7, 2022, 10:46:36 AM
+
+#minecraft:lava
+- minecraft:lava
+- minecraft:flowing_lava
+
+#minecraft:water
+- minecraft:water
+- minecraft:flowing_water
+
+#ae2:blacklisted/annihilation_plane
+
+#c:water
+- #minecraft:water?
+
+#c:lava
+- #minecraft:lava?
